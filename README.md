@@ -48,9 +48,9 @@ informações básicas que o usuário deve seguir para usar o RocketMovies:
 
 Quer conferir o RocketMovies? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://rocketfilmes.netlify.app/)
 
-OBS: O projeto encontra-se em desenvolvimento.
+OBS: Será acrescentado melhorias.
 
 <br>
 
